@@ -1,3 +1,2 @@
 #!/usr/bin/bash
 echo "Hello world!!!"
-touch xxx
